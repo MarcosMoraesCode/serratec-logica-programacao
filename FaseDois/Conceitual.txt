@@ -1,0 +1,59 @@
+Quantidade de vendedores da loja
+Integer qtdvdd;
+
+Nome da rua, com número e complemento
+String enderecocompleto;
+
+Preço do etanol comum
+Float precoetanol;
+
+Estado de iluminação de uma lâmpada
+Bolean statusluz;
+
+CEP do endereço, com hífen
+String enderecochifen;
+
+Mostrador com um dígito dentro do elevador, indicando o andar do prédio onde ele está passando
+Real posicaoelevador;
+
+Led que indica o pressionamento do botão do elevador
+Bolean statusbotao;
+
+Data de aniversário do professor
+Date niverprof;
+
+Peso do prato na balança do restaurante
+Float pesoprato;
+
+Número de bois no curral da fazenda
+Real numbois;
+
+Dia completo da páscoa nesse ano
+Date datacomp;
+
+Quantidade de laranjas na caixa
+Real numlaranjas;
+
+Uma vogal minúscula
+Char vogalminuscula;
+
+Título de um livro
+String titulolivro;
+
+Limite do cartão de crédito
+Float limitecard;
+
+Horário de transmissão do jogo
+Date horariotransmissao;
+
+Altura de um prédio
+Float alturapredio;
+
+Páginas do caderno
+Real pagbook;
+
+Sala de reunião está disponível (ou ocupada)
+Bolean statussala;
+
+Alternativas do enunciado da questão de múltipla escolha
+Char alternativaA;
