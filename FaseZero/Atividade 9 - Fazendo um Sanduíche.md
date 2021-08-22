@@ -1,0 +1,19 @@
+__9.	Para o jantar da sexta à noite, a Giulia decidiu fazer um sanduíche. Mas para que sua filha possa acompanhar a montagem, irá anotar o passo a passo da preparação e a ordem das camadas de recheio.__
+
+## Algoritmo do Sanduíche
+
+* Se dirigir a cozinha
+* Pegar dois pães de forma da sacola e por na mesa
+* Pegar alface e tomate na geladeira e colocar na mesa
+* Pegar queijo cheddar e peito de peru na geladeira e colocar na mesa
+* Colocar os pães sobre a mesa
+* Separar duas folhas de alface
+* Cortar o tomate em algumas fatias
+* Colocar uma folha de alface por cima de um dos dois pães de forma
+* Colocar duas fatias de tomate por cima do alface que está no pão
+* Colocar duas fatias de cheddar por cima do tomate que está no pão
+* Colocar duas fatias de peito de peru por cima do cheddar que está no pão
+* Colocar uma folha de alface por cima da fatia de peito de peru que está no pão
+* Colocar o segundo pão de forma por cima do alface
+* Guardar os ingredientes que sobraram onde foram pegos
+* Comer o sanduiche 
